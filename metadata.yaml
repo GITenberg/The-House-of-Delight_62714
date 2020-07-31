@@ -1,0 +1,27 @@
+_repo: The-House-of-Delight_62714
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Gertrude Chandler
+    alias: Warner, Gertrude
+    birthdate: 1890
+    deathdate: 1979
+    gutenberg_agent_id: '41863'
+    url: http://www.gutenberg.org/2009/agents/41863
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Chandler_Warner
+description: ''
+gutenberg_issued: '2020-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Dolls -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The House of Delight
+url: http://www.gutenberg.org/ebooks/62714
