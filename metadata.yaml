@@ -1,5 +1,8 @@
 _repo: The-House-of-Delight_62714
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62714-h/images/cover.jpg
 creator:
   author:
     agent_name: Warner, Gertrude Chandler
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41863
     wikipedia: https://en.wikipedia.org/wiki/Gertrude_Chandler_Warner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62714#The-House-of-Delight
 gutenberg_issued: '2020-07-20'
 gutenberg_type: Text
 identifiers:
